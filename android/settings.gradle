@@ -1,0 +1,3 @@
+rootProject.name = 'sport_connect_2598'
+
+include ':app'
